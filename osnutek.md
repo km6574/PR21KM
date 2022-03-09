@@ -11,9 +11,9 @@ Natečaj podjetja H&M sprašuje ali lahko na podlagi podatkov o preteklih nakupi
 
 Dani podatki so sestavljeni iz treh datotek tabelaričnih podatkov, ter zbirke slikovnega gradiva. V nalogi bi se posvetil zgolj tabelaričnemu delu, in sicer:
 
-**articles.csv** - Datoteka vsebuje podatke o artiklih. Tukaj so zajeti ključni atributi (barva, znamka, kategorija izdelak, itd) v katerih bi poskušali iskati vzorce v nakupih specifične stranke.
-**customers.csv** - Datoteka vsebuje podatke o uporabnikih.
-**transactions_train.csv** - Datoteka vsebuje podatke o nakupih, kateri uporabnik je kupil kateri artikel.
+* **articles.csv** - Datoteka vsebuje podatke o artiklih. Tukaj so zajeti ključni atributi (barva, znamka, kategorija izdelak, itd) v katerih bi poskušali iskati vzorce v nakupih specifične stranke.
+* **customers.csv** - Datoteka vsebuje podatke o uporabnikih.
+* **transactions_train.csv** - Datoteka vsebuje podatke o nakupih, kateri uporabnik je kupil kateri artikel.
 
 *sample_submission.csv - primer zaželjene končne datoteke*
 
