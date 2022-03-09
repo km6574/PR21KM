@@ -5,7 +5,7 @@ Kaggle competition, available at https://www.kaggle.com/c/h-and-m-personalized-f
 
 ## Uvod
 
-Natečaj podjetja H&M sprašuje ali lahko na podlagi podatkov o preteklih nakupih strank in metapodatkov o izdelkih, pripravimo primerna priporočila izdelkov za stranko v bodoče. Torej razviti bi bilo potrebno priporočilni sistem za dane podatke. V nalogi bi poskušal postaviti neko osnovo za reševanje tega specifičnega problema.
+Natečaj podjetja H&M sprašuje ali lahko na podlagi podatkov o preteklih nakupih strank in metapodatkov o izdelkih, pripravimo primerna priporočila izdelkov za stranko v bodoče. Torej razviti bi bilo potrebno priporočilni sistem na podlagi danih podatkov. V nalogi bi poskušal postaviti neko osnovo za reševanje tega specifičnega problema.
 
 ## Podatki
 
@@ -17,7 +17,7 @@ Dani podatki so sestavljeni iz treh datotek tabelaričnih podatkov, ter zbirke s
 
 *sample_submission.csv - primer zaželjene končne datoteke*
 
-Za začetek bi podatke porezal tako, da bi izoliral nekaj uporabnikov in upošteval le transakcije teh parih uporabnikov. Nato bi poskušal poiskati ali obstajajo kakšni vzorci v nakupih izbranih uporabnik, recimo ali je uprabnik pritegnjen kupovati določeno barvo, določeno znamko, itd.
+Za začetek bi podatke porezal tako, da bi izoliral nekaj uporabnikov in upošteval le transakcije teh parih uporabnikov. Nato bi poskušal poiskati ali obstajajo kakšni vzorci v nakupih izbranih uporabnikov, recimo ali je uprabnik pritegnjen kupovati določeno barvo, določeno znamko, itd.
 
 ## Cilji
 
